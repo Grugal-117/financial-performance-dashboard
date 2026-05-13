@@ -22,7 +22,8 @@ This project analyzes revenue, expenses, and profit trends for a fictional compa
 - screenshots/
 
 ## Dashboard Preview
-[Insert screenshot here]
+
+![Dashboard Preview](screenshots/Dashboard_preview.png)
 
 ## What I Learned
 I practiced business analysis, KPI tracking, SQL querying, and dashboard storytelling.
